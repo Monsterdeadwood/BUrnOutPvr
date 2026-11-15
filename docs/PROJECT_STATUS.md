@@ -8,6 +8,15 @@ Reviewed **14 November 2026**. Documented branch: **P36 Exhaust Projection Previ
 
 - Actual-game XR Sim/Tape boost comparisons and hardware GPU controls checked the admitted particle passes, both-eye constants and restoration.
 
+## Follow-up tests reviewed 16 November 2026
+
+P38 exercised startup auto-confirm and manual takeover in XR Sim/Tape. In the P39 startup-to-driving test, a delayed render held the last complete stereo pair, and fresh stereo and input resumed. Physical headset behavior and all vehicle variants still need testing.
+
+Verification records used for this section
+
+- `P38_STARTUP_SKIP_QUALIFICATION.json`
+- `P39_FRAME_RECOVERY_QUALIFICATION.json`
+
 ## Current limits
 
 - Physical-headset visual acceptance, all vehicle/exhaust variants, weather and device recreation remain open.

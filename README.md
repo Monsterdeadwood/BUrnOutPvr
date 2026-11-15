@@ -14,7 +14,7 @@
 
 Drive through Paradise City in an experimental stereoscopic VR branch for Burnout Paradise Remastered. The current preview focuses on head-tracked driving, vehicle menus and correct per-eye projection of the original boost and sun effects.
 
-**Current documented branch: P36 Exhaust Projection Preview.**
+**Package baseline on this page: P36 Exhaust Projection Preview.**
 
 ## Installation
 
@@ -49,6 +49,11 @@ Current test-package availability is coordinated in Discord. Use the complete pa
 The complete package control sheet takes precedence for its version and interaction profile.
 
 </details>
+
+## Features in newer test builds
+
+- **Startup prompts in the headset.** P38 tested automatic confirmation through the loading screens and lets you take over with the controller.
+- **Stereo returns after a stalled game frame.** P39 held the last complete stereo pair with its original poses during a 1.72-second test stall. Fresh stereo and driving input returned afterward in the XR Sim and Tape test.
 
 ## Current status
 
