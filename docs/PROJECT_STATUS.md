@@ -33,9 +33,3 @@ This overview was reconciled against the project’s recorded package notes and 
 - `P36_QUALIFICATION.json`
 
 Game execution, simulator validation and physical-headset feedback are reported separately above. Features from a separate experimental branch are identified explicitly.
-
-## Кратко по-русски
-
-Экспериментальное стереовождение по Paradise City в Burnout Paradise Remastered. Текущая сборка развивает трекинг головы, меню автомобилей и правильную проекцию штатных эффектов ускорения и солнца для каждого глаза.
-
-- Принятие изображения в физическом шлеме, все машины/варианты выхлопа, погода и пересоздание устройства ещё требуют проверки.
