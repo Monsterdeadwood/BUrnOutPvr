@@ -1,9 +1,9 @@
 > [!IMPORTANT]
-> **💬 TEST BUILDS & DISCUSSION**
+> **💬 DOWNLOAD & DISCUSSION**
 >
 > **[Join the Flat2VR Discord](https://discord.gg/P4q9zt7ek)** · **[Open the Burnout Paradise Remastered thread](https://discord.com/channels/747967102895390741/1566770303474864248)**
 >
-> Download the latest test build from the thread and share your results there.
+> Get the mod and share feedback in the game’s Flat2VR thread.
 
 <p align="center">
   <img src="assets/vr-banner.png" alt="Burnout Paradise Remastered VR" width="900">
@@ -13,7 +13,7 @@
 
 ## 📦 INSTALLATION
 
-1. Install **Burnout Paradise Remastered** and request the matching VR test package.
+1. Install **Burnout Paradise Remastered** on PC.
 2. Extract the complete mod into its own folder.
 3. Connect your PC VR headset, select a 64-bit OpenXR runtime, and run **`RUN.bat`**.
 
@@ -21,19 +21,13 @@
 
 ## ⚡ FEATURES
 
-### DRIVE THROUGH PARADISE CITY IN STEREO
+### LOOK WHEREVER YOU WANT WHILE DRIVING
 
-Look around with your headset while driving. The vehicle selection screen keeps a flat menu and a stereoscopic car preview.
+Turn your head to look down a side street while you keep steering through Paradise City.
 
-### BOOST FLAMES & SUN GLARE IN BOTH EYES
+### SEE BOOST EXHAUST & SUN GLARE IN STEREO
 
-The P36 development build fixes the original boost and exhaust effects for stereo and lines up the sun glare in both eyes.
-
-### THE VIEW RECOVERS AFTER A STALL
-
-The P39 test held the last full stereo frame during a game stall and brought back fresh stereo as driving resumed.
-
-The latest stereo effects were checked in XR Sim. Headset visuals still need testing.
+Hit boost and see its exhaust from both eyes. Look toward the sun and see glare line up in stereo.
 
 <a name="screenshots"></a>
 
@@ -44,7 +38,7 @@ The latest stereo effects were checked in XR Sim. Headset visuals still need tes
   <a href="assets/gameplay/boost-exhaust.jpg"><img src="assets/gameplay/boost-exhaust.jpg" alt="Boost exhaust during the driving test" width="48%" align="top"></a>
 </p>
 
-[Tester credits](TESTERS.md) · [Build details](docs/PROJECT_STATUS.md)
+[Tester credits](TESTERS.md)
 
 <a name="other-vr-mods"></a>
 
@@ -54,11 +48,11 @@ The latest stereo effects were checked in XR Sim. Headset visuals still need tes
 | --- | --- |
 | [Alone in the Dark (2008) VR](https://github.com/Monsterdeadwood/AloneInTheDark2008VR) | Tracked item handling and hand contact with walls |
 | [Battlefield 3: VRevamp](https://github.com/Monsterdeadwood/Battlefield-3-VRevamp) | Body holsters, two-handed aiming, and changing campaign skies |
-| [Crysis 2: VRevamp](https://github.com/Monsterdeadwood/C2VR) | Physical melee, object grabbing, and a rooftop weapon range |
+| [Crysis 2: VRevamp](https://github.com/Monsterdeadwood/C2VR) | Telekinesis, switchable weapon hands, and randomized weather and time of day |
 | [NOVA · CS:GO Legacy VR](https://github.com/Monsterdeadwood/CSGOVR) | Controller aiming and working optics in local bot matches |
 | [Metro 2033 VR](https://github.com/Monsterdeadwood/Metro2033VR) | Telekinesis, hand lightning, and object physics |
 | [Rainbow Six Siege VR](https://github.com/Monsterdeadwood/SiegeVR) | Tracked weapons and two-handed foregrip handling |
-| [Star Wars: The Force Unleashed II VR](https://github.com/Monsterdeadwood/TFU2VR) | Two tracked lightsabers and independent Force grip |
+| [Star Wars: The Force Unleashed II VR](https://github.com/Monsterdeadwood/TFU2VR) | Independent sabers, limb cuts, Force powers, and crate flight |
 | [TimeShift VR](https://github.com/Monsterdeadwood/TimeShiftVR) | Randomized weather, day and night, and roomscale crouching |
 | [Titanfall 1 VR](https://github.com/Monsterdeadwood/Titanfall1VR) | Aim with the controller and look around a Titan cockpit |
 | [You Are Empty: Absolute Edition VR](https://github.com/Monsterdeadwood/YouAreEmptyAEVR) | Tracked weapons and melee with either hand |
