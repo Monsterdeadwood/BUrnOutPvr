@@ -40,7 +40,7 @@ The latest stereo effects were checked in XR Sim. Headset visuals still need tes
 ## 📸 In-game screenshots
 
 <p align="center">
-  <a href="assets/gameplay/look-up-in-paradise-city.jpg"><img src="assets/gameplay/look-up-in-paradise-city.jpg" alt="Looking up from the road in Paradise City" width="48%" align="top"></a>
+  <a href="assets/gameplay/look-up-in-paradise-city.jpg"><img src="assets/gameplay/look-up-in-paradise-city.jpg" alt="Blue sky over Paradise City during the head-tracking test" width="48%" align="top"></a>
   <a href="assets/gameplay/boost-exhaust.jpg"><img src="assets/gameplay/boost-exhaust.jpg" alt="Boost exhaust during the driving test" width="48%" align="top"></a>
 </p>
 
@@ -50,13 +50,15 @@ The latest stereo effects were checked in XR Sim. Headset visuals still need tes
 
 ## 🎮 Other VR mods
 
-- [Alone in the Dark (2008) VR](https://github.com/Monsterdeadwood/AloneInTheDark2008VR)
-- [Battlefield 3: VRevamp](https://github.com/Monsterdeadwood/Battlefield-3-VRevamp)
-- [Crysis 2: VRevamp](https://github.com/Monsterdeadwood/C2VR)
-- [NOVA · CS:GO Legacy VR](https://github.com/Monsterdeadwood/CSGOVR)
-- [Metro 2033 VR](https://github.com/Monsterdeadwood/Metro2033VR)
-- [Rainbow Six Siege VR](https://github.com/Monsterdeadwood/SiegeVR)
-- [Star Wars: The Force Unleashed II VR](https://github.com/Monsterdeadwood/TFU2VR)
-- [TimeShift VR](https://github.com/Monsterdeadwood/TimeShiftVR)
-- [Titanfall 1 VR](https://github.com/Monsterdeadwood/Titanfall1VR)
-- [You Are Empty: Absolute Edition VR](https://github.com/Monsterdeadwood/YouAreEmptyAEVR)
+| VR mod | Highlights |
+| --- | --- |
+| [Alone in the Dark (2008) VR](https://github.com/Monsterdeadwood/AloneInTheDark2008VR) | Tracked item handling and hand contact with walls |
+| [Battlefield 3: VRevamp](https://github.com/Monsterdeadwood/Battlefield-3-VRevamp) | Body holsters, two-handed aiming, and changing campaign skies |
+| [Crysis 2: VRevamp](https://github.com/Monsterdeadwood/C2VR) | Physical melee, object grabbing, and a rooftop weapon range |
+| [NOVA · CS:GO Legacy VR](https://github.com/Monsterdeadwood/CSGOVR) | Controller aiming and working optics in local bot matches |
+| [Metro 2033 VR](https://github.com/Monsterdeadwood/Metro2033VR) | Telekinesis, hand lightning, and object physics |
+| [Rainbow Six Siege VR](https://github.com/Monsterdeadwood/SiegeVR) | Tracked weapons and two-handed foregrip handling |
+| [Star Wars: The Force Unleashed II VR](https://github.com/Monsterdeadwood/TFU2VR) | Two tracked lightsabers and independent Force grip |
+| [TimeShift VR](https://github.com/Monsterdeadwood/TimeShiftVR) | Randomized weather, day and night, and roomscale crouching |
+| [Titanfall 1 VR](https://github.com/Monsterdeadwood/Titanfall1VR) | Aim with the controller and look around a Titan cockpit |
+| [You Are Empty: Absolute Edition VR](https://github.com/Monsterdeadwood/YouAreEmptyAEVR) | Tracked weapons and melee with either hand |
