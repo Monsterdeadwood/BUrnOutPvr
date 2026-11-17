@@ -14,8 +14,8 @@
 ## 📦 INSTALLATION
 
 1. Install **Burnout Paradise Remastered** on PC.
-2. Extract the complete mod into its own folder.
-3. Connect your PC VR headset, select a 64-bit OpenXR runtime, and run **`RUN.bat`**.
+2. **Put the mod archive next to the game’s `.exe`.** Extract the complete archive there and keep the mod folder intact.
+3. Connect your PC VR headset, select a 64-bit OpenXR runtime, and run **`RUN.bat`** from the extracted mod folder.
 
 <a name="features"></a>
 
