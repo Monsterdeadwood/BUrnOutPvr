@@ -1,9 +1,9 @@
 > [!IMPORTANT]
 > **TEST BUILDS & DISCUSSION**
 >
-> **[Join the Flat2VR Discord](https://discord.gg/P4q9zt7ek)**
+> **[Join the Flat2VR Discord](https://discord.gg/P4q9zt7ek)** · **[Open the Burnout Paradise Remastered thread](https://discord.com/channels/747967102895390741/1566770303474864248)**
 >
-> Ask for the matching test build and share feedback in the **Burnout Paradise Remastered VR** discussion.
+> Download the latest test build from the thread and share your results there.
 
 <p align="center">
   <img src="assets/vr-banner.png" alt="Burnout Paradise Remastered VR" width="900">
@@ -23,7 +23,7 @@ Look around with your headset while driving. The vehicle selection screen keeps 
 
 ### BOOST FLAMES & SUN GLARE IN BOTH EYES
 
-P36 fixes the original boost and exhaust effects for stereo and makes the glare track the world sun in both eyes.
+The P36 development build fixes the original boost and exhaust effects for stereo and lines up the sun glare in both eyes.
 
 ### THE VIEW RECOVERS AFTER A STALL
 
